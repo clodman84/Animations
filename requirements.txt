@@ -1,0 +1,7 @@
+beautifulsoup4
+httpx
+jupyter
+matplotlib
+numpy
+manim
+pre-commit
